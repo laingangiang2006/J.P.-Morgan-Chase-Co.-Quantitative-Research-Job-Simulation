@@ -1,1 +1,1 @@
-# J.P.-Morgan-Chase-Co.-Quantitative-Research-Job-Simulation
+# J.P. Morgan Chase Co.'s Quantitative Research Job Simulation
