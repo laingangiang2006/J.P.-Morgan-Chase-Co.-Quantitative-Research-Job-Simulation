@@ -1,9 +1,5 @@
 # J.P. Morgan Chase Co.'s Quantitative Research Job Simulation
 
-## Respo Overview
-
-Each folder contains the code, datasets, and figures I produced for the corresponding task.
-
 ## Experience Overview
 
 I completed J.P. Morgan's Quantitative Research on Forage on 12 June 2026. In the simulation I:
@@ -38,3 +34,7 @@ I completed J.P. Morgan's Quantitative Research on Forage on 12 June 2026. In th
   - The importance of breaking down a large dataset using machine learning methods
 - I did:
   - Deploy detailed Python code to strategically bucket customers with various FICO scores in order to narrow in on the probability of default
+
+## Respo Overview
+
+Each folder contains the code, datasets, and figures I produced for the corresponding task.
