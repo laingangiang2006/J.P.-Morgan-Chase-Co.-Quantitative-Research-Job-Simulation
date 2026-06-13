@@ -2,8 +2,6 @@
 
 # J.P. Morgan Chase Co.'s Quantitative Research Job Simulation
 
-## Respo Overview
-
 Each folder contains the code, datasets, and figures I produced for the corresponding task.
 
 ## Experience Overview
