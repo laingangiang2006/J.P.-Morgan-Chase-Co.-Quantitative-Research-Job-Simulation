@@ -1,4 +1,4 @@
-<img width="5980" height="840" alt="images" src="https://github.com/user-attachments/assets/0edf4c4b-8f54-48f4-8a2f-b2746171efb1" />
+<img width="8000" height="4500" alt="1722880160713" src="https://github.com/user-attachments/assets/62094f65-2521-4d53-918b-b75a68a8bbb7" />
 
 
 # J.P. Morgan Chase Co.'s Quantitative Research Job Simulation
