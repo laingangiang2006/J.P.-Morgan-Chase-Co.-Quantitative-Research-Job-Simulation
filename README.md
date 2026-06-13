@@ -1,4 +1,4 @@
-<img width="1920" height="1043" alt="O765-J P -Morgan-Chase-and-Co" src="https://download.logo.wine/logo/JPMorgan_Chase/JPMorgan_Chase-Logo.wine.png" />
+<img width="1920" height="1043" alt="O765-J P -Morgan-Chase-and-Co" src="https://assets.builtbyrose.co/wp-content/uploads/2021/03/12040739/jpmc-banner.png" />
 
 # J.P. Morgan Chase Co.'s Quantitative Research Job Simulation
 
