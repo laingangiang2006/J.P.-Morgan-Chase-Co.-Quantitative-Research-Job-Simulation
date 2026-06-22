@@ -6,8 +6,7 @@ Each folder contains the code, datasets, and figures I produced for the correspo
 
 ## Experience Overview
 
-I completed J.P. Morgan's Quantitative Research on Forage on 12 June 2026. In the simulation,
-- I completed a simulation focused on quantitative research methods 
+- I completed J.P. Morgan's Quantitative Research, focused on quantitative research methods, on Forage on 12 June 2026. 
 - I analyzed a book of loans to estimate a customer's probability of default
 - I used dynamic programming to convert FICO scores into categorical data to predict defaults
 - Primarily, this similation requires me to do predictive analysis, with some elements of prescriptive, and descriptive analysis.
