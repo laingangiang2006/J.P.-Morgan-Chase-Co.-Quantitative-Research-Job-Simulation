@@ -14,7 +14,7 @@ Each folder contains the code, datasets, and figures I produced for the correspo
 ## What Did I Learn And Do
 
 **1. Task 1:**
-- I learnt: 
+- I learnt:
   - An overview of commodity storage contracts.
   - How to extrapolate data from external feeds to provide granular insights.
 - I did:
